@@ -10,6 +10,14 @@ See [Final Presentation](https://drive.google.com/file/d/1bBhTVEvpul2a8wQBHJ4wAX
 
 ## Weekly Submits
 ### Week 1:
+We focused on enhancing the Bag of Visual Words (BoVW) code for our project by implementing several improvements and conducting thorough evaluations. Here's a summary of the tasks accomplished:
+- Testing Different Amounts of Local Features
+- Utilizing Dense SIFT Instead of Detected Keypoints
+- Testing Different Codebook Sizes (k)
+- Exploring Different Values of k for k-NN Classifier 
+- Experimenting with Different Distance Metrics in k-NN Classifier
+- Dimensionality Reduction Exploration
+- Cross-Validation of All Implemented Techniques
 
 ### Week 2:
 
