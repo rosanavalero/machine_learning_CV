@@ -21,6 +21,15 @@ We focused on enhancing the Bag of Visual Words (BoVW) code for our project by i
 - Cross-Validation of All Implemented Techniques
 
 ### [Week 2](https://github.com/rosanavalero/machine_learning_CV/tree/d07b03040b1b27e6704a986dd9717bd1df44e8cf/Week2)
+We were asked to enhance the Bag of Visual Words (BoVW) codebase for our project by implementing several advanced techniques. Here's a list of the improvements made:
+- Dense SIFT Implementation
+- L2 Norm Power Norm
+- Support Vector Machine (SVM) Classifier Integration
+- StandardScaler Usage
+- Cross-Validation Implementation
+- Kernel Exploration
+- Spatial Pyramids Integration
+- Fisher Vectors
 
 ### [Week 3](https://github.com/rosanavalero/machine_learning_CV/tree/d07b03040b1b27e6704a986dd9717bd1df44e8cf/Week3)
 
