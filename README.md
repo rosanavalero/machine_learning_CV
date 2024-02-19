@@ -20,17 +20,17 @@ We focused on enhancing the Bag of Visual Words (BoVW) code for our project by i
 - Dimensionality Reduction Exploration
 - Cross-Validation of All Implemented Techniques
 
-### Week 2:
+### [Week 2](https://github.com/rosanavalero/machine_learning_CV/tree/d07b03040b1b27e6704a986dd9717bd1df44e8cf/Week2)
 
-### Week 3:
+### [Week 3](https://github.com/rosanavalero/machine_learning_CV/tree/d07b03040b1b27e6704a986dd9717bd1df44e8cf/Week3):
 
-### Week 4:
+### [Week 4](https://github.com/rosanavalero/machine_learning_CV/tree/d07b03040b1b27e6704a986dd9717bd1df44e8cf/Week4):
 
-### Week 5:
+### [Week 5](https://github.com/rosanavalero/machine_learning_CV/tree/d07b03040b1b27e6704a986dd9717bd1df44e8cf/Week5):
 
 
 ## Contributors
-- Abel García Romera
-- Marcos Muñoz González
-- Rosana Valero Martínez
+- Abel García Romera (abelgr013@gmail.com)
+- Marcos Muñoz González (marcosmunozgonzalez95@gmail.com)
+- Rosana Valero Martínez (rosanavalero5@gmail.com)
 
