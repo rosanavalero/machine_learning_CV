@@ -9,7 +9,8 @@ See [Report](https://drive.google.com/file/d/1I7GHOIgVhsoc24-_R3qT4AydzxDSYe-w/v
 See [Final Presentation](https://drive.google.com/file/d/1bBhTVEvpul2a8wQBHJ4wAXMs_eMZNPt0/view?usp=sharing)
 
 ## Weekly Submits
-### Week 1:
+### [Week 1](https://github.com/rosanavalero/machine_learning_CV/tree/c1ff92b8f577f822bfff60cfeb752f1a88b1a1f7/Week1)
+
 We focused on enhancing the Bag of Visual Words (BoVW) code for our project by implementing several improvements and conducting thorough evaluations. Here's a summary of the tasks accomplished:
 - Testing Different Amounts of Local Features
 - Utilizing Dense SIFT Instead of Detected Keypoints
