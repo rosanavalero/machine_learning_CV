@@ -32,6 +32,14 @@ We were asked to enhance the Bag of Visual Words (BoVW) codebase for our project
 - Fisher Vectors
 
 ### [Week 3](https://github.com/rosanavalero/machine_learning_CV/tree/d07b03040b1b27e6704a986dd9717bd1df44e8cf/Week3)
+This week, our focus was on understanding network topology and exploring various modifications to improve our MLP end-to-end classifier's performance.
+#### Understanding Network Topology:
+- Add/Change Layers in the Network Topology: We investigated the effects of increasing the network's depth and width, utilizing Optuna for hyperparameter optimization to determine the optimal trade-off between depth and width for maximizing validation accuracy
+- Effect of Increasing the Number of Parameters and the Importance of Each Feature
+#### Comparing Learnt vs. Handcrafted Features:
+- Bag of Visual Words End-to-End: Training SVM classifiers using both the last layer predictions of a pre-trained MLP classifier and traditional handcrafted features
+- Comparison between k-NN and MLP Hidden Layer as SVM Input: Utilizing t-SNE visualization, we compared the distributions of features extracted by k-NN classifiers and MLP hidden layers for SVM input
+- MLP Patch-Based Classifier: We explored an end-to-end approach where images were split into patches for individual classification
 
 ### [Week 4](https://github.com/rosanavalero/machine_learning_CV/tree/d07b03040b1b27e6704a986dd9717bd1df44e8cf/Week4)
 
