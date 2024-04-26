@@ -42,9 +42,26 @@ This week, our focus was on understanding network topology and exploring various
 - MLP Patch-Based Classifier: We explored an end-to-end approach where images were split into patches for individual classification
 
 ### [Week 4](https://github.com/rosanavalero/machine_learning_CV/tree/d07b03040b1b27e6704a986dd9717bd1df44e8cf/Week4)
+In Week 4, we delved deeper into advanced techniques and methodologies to enhance the performance of our image classification system.
+#### VGG16 Feature Extraction and Model Optimization:
+- Utilized pre-trained VGG16 to extract image features, using the output of the last convolutional layer as descriptors for our MLP classifier
+- Conducted experiments with optimizers and learning rates
+- Explored optimization with different layer widths and depths
+- Data Augmentation Evaluation
+- Compared the performance of MLP with SVM histogram intersection using extracted VGG16 features
+- Utilized t-SNE algorithm to compare the distribution of features extracted by k-NN classifiers, MLP hidden layers, and VGG16 outputs
+- Utilized GradCAM for insights into model predictions
+#### Model Optimization Strategies:
+- Improved VGG16 classifier performance through methodologies such as dropout layers and batch normalization
+- Explored optimization with label smoothing to enhance model performance
 
 ### [Week 5](https://github.com/rosanavalero/machine_learning_CV/tree/d07b03040b1b27e6704a986dd9717bd1df44e8cf/Week5)
-
+Week 5 marked the exploration of designing convolutional models from scratch and employing weight pruning techniques to improve model efficiency.
+#### Defining Convolutional Models from Scratch:
+- Experimented with multiple convolutional architectures with varying complexities and layer configurations
+- Explored different pooling, normalization layers, and tuning hyperparameters to address issues like overfitting and parameter efficiency
+#### Weight Pruning:
+- Implemented weight pruning techniques to reduce the size of trained models without compromising performance
 
 ## Contributors
 - Abel García Romera (abelgr013@gmail.com)
